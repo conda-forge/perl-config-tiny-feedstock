@@ -1,11 +1,11 @@
-About perl-config-tiny
-======================
+About perl-config-tiny-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-config-tiny-feedstock/blob/main/LICENSE.txt)
 
 Home: http://metacpan.org/pod/Config::Tiny
 
 Package license: GPL-1.0-or-later OR Artistic-1.0-Perl
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/perl-config-tiny-feedstock/blob/main/LICENSE.txt)
 
 Summary: Read/Write .ini style files with as little code as possible
 

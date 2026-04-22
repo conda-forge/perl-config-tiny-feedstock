@@ -1,6 +1,6 @@
 {% set name = "perl-config-tiny" %}
-{% set version = "2.28" %}
-{% set sha256 = "12df843a0d29d48f61bcc14c4f18f0858fd27a8dd829a00319529d654fe01500" %}
+{% set version = "2.29" %}
+{% set sha256 = "3de79b0ea03a8d6a93e9d9128fe845fb556222b14699a4f6f0d5ca057ae3333b" %}
 
 package:
   name: {{ name }}
@@ -39,7 +39,7 @@ about:
   home: http://metacpan.org/pod/Config::Tiny
   license: GPL-1.0-or-later OR Artistic-1.0-Perl
   license_family: OTHER
-  summary: 'Read/Write .ini style files with as little code as possible'
+  summary: Read/Write .ini style files with as little code as possible
   license_file:
     - {{ environ["PREFIX"] }}/man/man1/perlartistic.1
     - {{ environ["PREFIX"] }}/man/man1/perlgpl.1
